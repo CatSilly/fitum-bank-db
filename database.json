@@ -1,0 +1,16 @@
+{
+  "users": {
+    "user1": {
+      "password": "pass1",
+      "name": "Nguyễn Văn A",
+      "balance": 15500000,
+      "account_number": "123456789"
+    },
+    "user2": {
+      "password": "pass2", 
+      "name": "Trần Thị B",
+      "balance": 8300000,
+      "account_number": "987654321"
+    }
+  }
+}

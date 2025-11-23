@@ -3,14 +3,14 @@
     "accounts": [
         {
             "username": "simla",
-            "password": "simlaiachay",
+            "password": "d05dafe50a99af2f6d2c898e2c3d4b51ac5280dcb6df4e37bdb41c87ada71a53",
             "accountHolder": "Simla",
             "accountNumber": "01",
             "balance": 991
         },
         {
             "username": "beluga",
-            "password": "xienlachiengion",
+            "password": "fc0f029e5323b35bafe4c4206c74eaceaf937bad5a477eb3f886e5bc25a1e592",
             "accountHolder": "Beluga",
             "accountNumber": "02",
             "balance": 386

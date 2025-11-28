@@ -14,6 +14,13 @@
             "accountHolder": "Beluga",
             "accountNumber": "02",
             "balance": 386
+        },
+        {
+            "username": "luna",
+            "password": "ihateproxima",
+            "accountHolder": "Luna",
+            "accountNumber": "dev_account",
+            "balance": 298.990.566
         }
     ]
 }
